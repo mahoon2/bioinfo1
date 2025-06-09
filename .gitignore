@@ -5,6 +5,8 @@ binfo1-datapak*
 *.tar
 *.gtf
 
+tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
