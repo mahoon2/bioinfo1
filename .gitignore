@@ -3,8 +3,7 @@ binfo1-datapak*
 *.bam
 *.bai
 *.tar
-*.gtf
-
+*.fa*
 tmp/
 
 # Byte-compiled / optimized / DLL files
